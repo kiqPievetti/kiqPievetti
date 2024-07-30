@@ -20,7 +20,10 @@ I'm a **PIEVETTI** from 1997 based in Praia Grande, Brazil, and the founder of *
 
 🔹 **Personal Interests**: A passionate surfer, coder, and gamer. My FPS PvP game performance is top-notch, and when I’m not shining in games, I’m studying code, solving problems, and creating systems or shortcuts that streamline any type of work.
 
-Always on the lookout for new challenges and opportunities to apply my skills and continue learning. Let’s connect!
+Always on the lookout for new challenges and opportunities to apply my skills and continue learning. Let’s connect! 
+
+![kiq_JavaScript_Icon](https://github.com/kiqPievetti/svg-icons/raw/main/JavaScript_icon_kiqPievetti.svg)
+
 
 🔗 [LinkedIn]() | 🌐 [Website]()
 
