@@ -1,4 +1,4 @@
-### 👋 Hi, I'm [Caique Pievetti]!
+### 👋 Hi, I'm Caique Pievetti!
 
 I'm a **PIEVETTI** from 1997 based in Praia Grande, Brazil, and the founder of **CyberWeb**. As a versatile developer, I specialize in a broad range of technologies and disciplines.
 
