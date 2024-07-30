@@ -37,7 +37,7 @@ Always on the lookout for new challenges and opportunities to apply my skills an
 
 
 
-🔗 [LinkedIn]() | 🌐 [Website]()
+🔗 [LinkedIn](https://www.linkedin.com/in/caique-pievetti-b67a4631b/) | 🌐 [Website]()
 
 
 <!---
